@@ -10,7 +10,7 @@ for example,
 
 for example,
 > python test test.txt netWeights.txt 3
-#Radial-Basis-Function
+# Radial-Basis-Function
 ![](https://github.com/hahmadraza/Custom-Radial-Basis-Function/blob/master/Images/0001.jpg)
 ![](https://github.com/hahmadraza/Custom-Radial-Basis-Function/blob/master/Images/0002.jpg)
 ![](https://github.com/hahmadraza/Custom-Radial-Basis-Function/blob/master/Images/0003.jpg)
