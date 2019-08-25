@@ -1,4 +1,5 @@
 # Custom-Radial-Basis-Function
+Download and extract home.rar in home directory
 ## Training 
 > python train trainData_file_name learning_rate k num_epochs
 
